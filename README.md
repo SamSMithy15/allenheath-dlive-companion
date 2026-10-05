@@ -216,14 +216,11 @@ Version 0.1.2 has been tested against two separate practice MixRacks.
 - 35 module tests passed
 - 68 cross-checks passed
 
-Hardware testing is still limited, so test the module with a saved show backup before using it in a live production environment.
-
 ## Known Limitations
 
 - dLive fader levels are limited to 0.5 dB steps.
 - Values below approximately -53 dB are represented as -inf.
 - The current scene cannot simply be queried from the desk.
-- Real-world production testing is still limited.
 
 ## Version
 
